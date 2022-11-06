@@ -117,17 +117,12 @@ nav > div{
 
 /* fin nav */
 
-/* Image décorative de présentation */
-
-#imgiss{
-  width:100%;
-} 
 /* articles */
 
 div.article{
   width: 70%;/*largeur*/
   padding:5%;/*décoller du bord*/
-  background-color: #B8CBD0;/*temporaire*/
+  background-color: #B8CBD0;
   margin: 20px auto;/*centrer + espacer*/
   display:flex;
   align-items:center;
